@@ -1,7 +1,11 @@
 
 <img src='https://github.com/mayoro401/mayoro401/blob/main/profgit.jpeg'  >
 
-
+<p> 
+</p>
+<p>
+  
+</p>
 👋 Bonjour! Je suis Papa Mayoro FALL, un développeur fullStak junior passionné par l'art de coder et résoudre des défis techniques.
 
 💻 J'aime explorer de nouvelles technologies et apprendre en permanence pour améliorer mes compétences en développement.
@@ -34,3 +38,17 @@ height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/68
 <img height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/phython-icon.svg'>
 <img height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/react-1-logo-png-transparent-removebg-preview.png'>
 </div>
+
+
+<p> 
+  <img src='https://visitor-badge.glitch.me/badge?page_id=mayoro401'>
+
+</p>
+<p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mayoro401&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayoro401&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+</a>
+</p>
