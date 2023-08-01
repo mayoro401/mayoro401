@@ -49,6 +49,6 @@ height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/68
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mayoro401&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayoro401&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayoro401&hide_progress=true&theme=transparent" />
 </a>
 </p>
