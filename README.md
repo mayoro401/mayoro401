@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mayoro.fall@uadb.edu.sn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+<div class='container' >
 <img src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f626f6f7473747261702e737667.svg' height="50" height="50">
 <img height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176612e737667.svg'>
 <img height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6c61726176656c2e737667.svg'>
@@ -25,4 +25,4 @@ height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/68
 <img height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/javascript.svg'>
 <img height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/phython-icon.svg'>
 <img height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/react-1-logo-png-transparent-removebg-preview.png'>
-
+</div>
