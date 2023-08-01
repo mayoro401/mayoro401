@@ -1,17 +1,23 @@
-<h2> <p align='center' >### Hi, I'm Papa Mayoro FALL 👋 </p></h2>
+<h2> <p align='center' > Hi, I'm Papa Mayoro FALL 👋 </p></h2>
 
-**mayoro401/mayoro401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Bonjour! Je suis Papa Mayoro FALL, un développeur fullStak junior passionné par l'art de coder et résoudre des défis techniques.
 
-Here are some ideas to get you started:
+💻 J'aime explorer de nouvelles technologies et apprendre en permanence pour améliorer mes compétences en développement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React, Angular and IA
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: mayoro.fall@uadb.edu.sn
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔧 Au cours de mon parcours, j'ai travaillé sur des projets variés, tels qu'une application meteo et une plateforme e-learning, ce qui m'a permis d'acquérir une compréhension approfondie des meilleures pratiques et des normes de qualité du code.
+
+🌱 Je suis actuellement en train d'approfondir mes connaissances en React, Angular et en Itelligence Artificielle, et je suis toujours ouvert à de nouvelles opportunités de collaboration et de contribution sur des projets open-source.
+
+📫 Vous pouvez me contacter via mayoro.fall@uadb.edu.sn. Je serais ravi de discuter de projets passionnants, d'opportunités de travail ou de toute autre chose liée au développement.
+
+⚡ Quand je ne code pas, vous pouvez me trouver en train de rechercher . La créativité est essentielle pour moi et m'inspire dans mon travail de développement.
+
+🌐 N'hésitez pas à explorer mes projets ci-dessous et à me suivre pour être au courant des dernières mises à jour. Je suis impatient de faire partie de la communauté GitHub et de contribuer à l'écosystème open-source.
+
+Happy coding! 😊
+
+
+
 <div class='container center' >
 <img src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f626f6f7473747261702e737667.svg' height="50" height="50">
 <img height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176612e737667.svg'>
