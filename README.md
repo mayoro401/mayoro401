@@ -13,15 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f626f6f7473747261702e737667.svg' height="30" height="30">
-<img src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176612e737667.svg'>
-<img src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6c61726176656c2e737667.svg'>
-<img src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d7973716c2e737667.svg'>
-<imgg src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e65746c6966792e737667.svg'>
-<img src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f706f737467726573716c2e737667.svg'>
-<imgg src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667.svg'>
-<img src='https://github.com/mayoro401/mayoro401/blob/main/angular-icon.svg'>
-<img src='https://github.com/mayoro401/mayoro401/blob/main/javascript.svg'>
-<img src='https://github.com/mayoro401/mayoro401/blob/main/phython-icon.svg'>
-<img src='https://github.com/mayoro401/mayoro401/blob/main/react-1-logo-png-transparent-removebg-preview.png'>
+<img src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f626f6f7473747261702e737667.svg' height="50" height="50">
+<img height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a6176612e737667.svg'>
+<img height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6c61726176656c2e737667.svg'>
+<img 
+height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6d7973716c2e737667.svg'>
+<imgg height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6e65746c6966792e737667.svg'>
+<img height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f706f737467726573716c2e737667.svg'>
+<imgg height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667.svg'>
+<img height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/angular-icon.svg'>
+<img height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/javascript.svg'>
+<img height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/phython-icon.svg'>
+<img height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/react-1-logo-png-transparent-removebg-preview.png'>
 
