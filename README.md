@@ -1,4 +1,4 @@
-<span style='center'>### Hi, I'm Papa Mayoro FALL 👋 </span>
+<span align='center'>### Hi, I'm Papa Mayoro FALL 👋 </span>
 
 **mayoro401/mayoro401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
