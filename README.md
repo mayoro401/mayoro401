@@ -40,7 +40,7 @@ height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/68
 </div>
 
 <p> 
-  <img src='https://visitor-badge.glitch.me/badge?page_id=mayoro401.visitor-badge.issue.1'>
+<!--   <img src='https://visitor-badge.glitch.me/badge?page_id=mayoro401&left_color=green&right_color=red'> -->
 
 </p>
 <p>
