@@ -39,7 +39,6 @@ height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/68
 <img height="50" height="50" src='https://github.com/mayoro401/mayoro401/blob/main/react-1-logo-png-transparent-removebg-preview.png'>
 </div>
 
-<p>-------------------------------------------------------------------------------------------------------------------------------------</p>
 <p> 
   <img src='https://visitor-badge.glitch.me/badge?page_id=mayoro401.visitor-badge.issue.1'>
 
