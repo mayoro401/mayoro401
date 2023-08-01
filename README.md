@@ -1,3 +1,7 @@
+
+<img src='https://github.com/mayoro401/mayoro401/blob/main/git.png' width='100%' height="500" >
+
+
 <h2> <p align='center' > Hi, I'm Papa Mayoro FALL 👋 </p></h2>
 
 👋 Bonjour! Je suis Papa Mayoro FALL, un développeur fullStak junior passionné par l'art de coder et résoudre des défis techniques.
